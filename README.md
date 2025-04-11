@@ -11,7 +11,6 @@ Investigar padrões de suicídio no Brasil com base em atributos geográficos, t
 - Qual faixa etária é mais acometida?
 - Escolaridade ou estado civil influenciam nos casos?
 - Há uma distribuição por horário?
-- Onde ocorrem com mais frequência (domicílio, hospital etc)?
 
 ## 🌐 2. Coleta dos Dados
 
