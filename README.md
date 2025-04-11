@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f07f8d3a-6489-4485-8caa-28cc3408627a)# 📊 Projeto de Pipeline de Dados: Análise de Suicídios no Brasil
+# 📊 Projeto de Pipeline de Dados: Análise de Suicídios no Brasil
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico com o objetivo de construir um pipeline de dados completo na nuvem utilizando a plataforma Databricks Community Edition. O foco é a análise de dados públicos de óbitos por suicídio no Brasil, com base nos registros do SIM (Sistema de Informação sobre Mortalidade) do OpenDataSUS.
 
