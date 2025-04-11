@@ -39,6 +39,9 @@ A carga foi realizada com:
 - Criação de colunas calculadas (FAIXA_ETARIA, ANO, MES)
 - Armazenamento em tabelas persistentes com saveAsTable
 
+### link para o databricks com os codigos usados no projeto
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/265045060168582/4378335218277463/2107185590820837/latest.html
+
 ### 📌 Tabela fato:
 - FATO_SUICIDIOS: contém os registros de óbitos classificados com CID-10 entre X60 e X84 (suicídio).
 
