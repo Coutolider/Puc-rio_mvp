@@ -1,0 +1,10 @@
+Desafios enfrentados : Primeiramente os dados seriam importado pela biblioteca pysus, Porem sofri impencilhos no que se refere a documentacao, e recursos para utilizar a bliblioteca, alem de que a mesma nao pode
+ser utilizada pelo databricks, como solucao foi a coleta do dado diretamente do repositorio do sus:
+
+Os dados foram obtidos a partir do OpenDataSUS:
+
+- [`DO21OPEN.csv`](https://opendatasus.saude.gov.br/dataset/sim/resource/2dee2fc9-d19f-41bc-b058-6d4154f126ab)
+- [`DO22OPEN.csv`](https://opendatasus.saude.gov.br/dataset/sim/resource/9ade641a-1f25-40d9-b55b-cff7096eb5b4)
+- [`DO23OPEN.csv`](https://opendatasus.saude.gov.br/dataset/sim/resource/2a7269c5-91b2-4569-8b36-3ab775328555)
+
+Os arquivos foram enviados para o armazenamento da plataforma Databricks (`/FileStore/tables`) e tratados via notebooks em PySpark/SQL.
