@@ -7,4 +7,4 @@ Os dados foram obtidos a partir do OpenDataSUS:
 - [`DO22OPEN.csv`](https://opendatasus.saude.gov.br/dataset/sim/resource/9ade641a-1f25-40d9-b55b-cff7096eb5b4)
 - [`DO23OPEN.csv`](https://opendatasus.saude.gov.br/dataset/sim/resource/2a7269c5-91b2-4569-8b36-3ab775328555)
 
-Os arquivos foram enviados para o armazenamento da plataforma Databricks (`/FileStore/tables`) e tratados via notebooks em PySpark/SQL.
+Estes arquivos representam as declarações de óbito no Brasil nos respectivos anos. Foram carregados diretamente para o armazenamento da plataforma Databricks, na pasta /FileStore/tables.
