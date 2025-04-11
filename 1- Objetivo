@@ -1,0 +1,19 @@
+1. Objetivo do Trabalho
+
+O presente trabalho tem como objetivo construir um pipeline de dados em nuvem, utilizando a plataforma Databricks Community Edition, para analisar padrões e comportamentos relacionados aos suicídios registrados no Brasil. A análise se baseia em dados do Sistema de Informação sobre Mortalidade (SIM), disponibilizados pelo OpenDataSUS.
+
+Problema a ser resolvido
+
+Investigar os padrões de suicídio no Brasil com base em dados sociodemográficos, temporais e geográficos. Identificar quais grupos são mais afetados, quando e onde os casos ocorrem com mais frequência.
+
+Perguntas de negócio:
+
+Quais estados possuem maior incidência de suicídios?
+
+Existe diferença significativa entre os sexos?
+
+Qual faixa etária é mais acometida?
+
+A escolaridade ou estado civil influenciam nos casos?
+
+Existe uma distribuição horária/tendência temporal?
